@@ -33,6 +33,9 @@ gem 'spring',        group: :development
 # Add 12factor for Heroku
 gem 'rails_12factor', group: :production
 
+# Use bootstrap for improving look
+gem 'bootstrap-sass'
+
 # Use unicorn as the app server
 # gem 'unicorn'
 
